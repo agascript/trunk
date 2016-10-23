@@ -1,1 +1,1 @@
-
+$('.song-name-tbl-populer-list')[0].click();
